@@ -18,6 +18,8 @@ public class GithubPr {
         int num1 = 1;
         int num2 = 2;
         
+        
+        int resultado = num1 + num2;
     }
     
 }
